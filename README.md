@@ -6,4 +6,8 @@ demo-1>>dev>>dev>>release
 再来一次dev-update-1
 
 ----2
+
 claude code git-1
+
+----3
+测试 stash 命令 储藏
