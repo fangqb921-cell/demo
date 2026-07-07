@@ -11,3 +11,7 @@ claude code git-1
 
 ----3
 测试 stash 命令 储藏
+
+
+----4
+测试 stash 命令 储藏-2
