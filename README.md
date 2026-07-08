@@ -21,4 +21,11 @@ claude code git-1
 测试 update-5
 
 ----6
-测试 rebase-1
+测试 rebase-6
+
+----6-1
+测试 rebase-6-1
+
+
+----6-2
+测试 rebase-6-2
