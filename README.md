@@ -19,3 +19,6 @@ claude code git-1
 
 ----5
 测试 update-5
+
+----6
+测试 rebase-1
